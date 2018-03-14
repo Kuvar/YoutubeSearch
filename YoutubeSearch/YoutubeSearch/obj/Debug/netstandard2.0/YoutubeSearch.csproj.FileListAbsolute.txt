@@ -1,0 +1,11 @@
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\bin\Debug\netstandard2.0\YoutubeSearch.deps.json
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\bin\Debug\netstandard2.0\YoutubeSearch.dll
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\bin\Debug\netstandard2.0\YoutubeSearch.pdb
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.csproj.CoreCompileInputs.cache
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.App.xaml.g.cs
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.MainPage.xaml.g.cs
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.AssemblyInfoInputs.cache
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.AssemblyInfo.cs
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.dll
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.pdb
+E:\Projects\YoutubeSearch\YoutubeSearch\YoutubeSearch\obj\Debug\netstandard2.0\YoutubeSearch.csprojResolveAssemblyReference.cache
